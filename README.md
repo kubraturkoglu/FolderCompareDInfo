@@ -1,5 +1,4 @@
 # FolderCompareDInfo
 Folder Comparerer with DirectoryInfo
 
-
-![image](https://user-images.githubusercontent.com/54949171/226465770-9448fd34-0552-4f31-b2c8-29120e623309.png)
+![image](https://user-images.githubusercontent.com/54949171/226466051-708ef17a-8c7f-4738-9a8c-b675995cd181.png)
